@@ -1,0 +1,33 @@
+.button.delete {
+    color: #fff;
+    border-color: #BC0A0A;
+    background-color: #EF3434;
+    box-shadow: 0 1px 0 #BC0A0A;
+}
+
+.button.delete:hover,
+.button.delete:focus {
+    color: #fff;
+    border-color: #BC0A0A;
+    background-color: #FD5B5B;
+    box-shadow: 0 1px 0 #BC0A0A;
+}
+
+.button.profile {
+    color: #fff;
+    border-color: #249D0C;
+    background-color: #23D700;
+    box-shadow: 0 1px 0 #249D0C;
+}
+
+.button.profile:hover,
+.button.profile:focus {
+    color: #fff;
+    border-color: #249D0C;
+    background-color: #5CE741;
+    box-shadow: 0 1px 0 #249D0C;
+}
+
+#delete_ordin {
+    /* float: right; */
+}
